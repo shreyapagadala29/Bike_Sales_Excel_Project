@@ -4,6 +4,9 @@
 ## Project Overview
 This project involves creating a comprehensive and interactive Excel dashboard for analyzing bike sales. It utilizes techniques such as data cleaning, pivot tables, and visualizations to provide actionable insights based on customer demographics and sales trends.
 
+<img width="742" alt="Screenshot 2025-01-12 at 6 01 42 PM" src="https://github.com/user-attachments/assets/d7a298ae-c383-44a5-98a3-9416fa93b497" />
+
+
 ## Tools Used
 - **Microsoft Excel**
 
